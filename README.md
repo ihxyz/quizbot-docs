@@ -1,2 +1,2 @@
-# quizbot-docs
+# QuizBot Documentation 
 QuizBot documentation and support 
