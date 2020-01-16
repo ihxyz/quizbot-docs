@@ -11,9 +11,9 @@ QuizBot documentation and support.
 
 ### Server management
 
-- [Managing bot permissions](permissions.md)
-- [Managing bot settings](settings.md)
+- [Managing bot permissions](admin/permissions.md)
+- [Managing bot settings](admin/settings.md)
 
 ## How to
 
-- [Limit the bot to a specific channel](permissions.md#limiting-the-bot-to-one-channel)
+- [Limit the bot to a specific channel](admin/permissions.md#limiting-the-bot-to-one-channel)
