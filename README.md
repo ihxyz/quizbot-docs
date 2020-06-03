@@ -1,17 +1,13 @@
 # QuizBot Documentation
 
-QuizBot documentation and support.
-
-## Pages
-
-### Quizzes
+## Quizzes
 
 - [Creating/editing quizzes](quizzes/creation.md)
 - [Editing quizzes with commands](quizzes/quizeditor.md)
 - [Command Notation](quizzes/notation.md)
 - [Playing quizzes](quizzes/play.md)
 
-### Server management
+## Server management
 
 - [Managing bot permissions](admin/permissions.md)
 - [Managing bot settings](admin/settings.md)

@@ -14,9 +14,9 @@ To edit an existing quiz, navigate to the [same page as above](https://quizbot.x
 
 You can also create quizzes entirely using commands, without leaving Discord.
 
-To create a quiz run the `=create-quiz` command in a channel which QuizBot has access to. 
+To create a quiz run the `=create-quiz` command in a channel which QuizBot has access to.
 
-When creating a quiz you will always need to give the quiz a name. If you wish you can also give the quiz a description. The command you are executing should look something like this: `=create-quiz Name;Description`. 
+When creating a quiz you will always need to give the quiz a name. If you wish you can also give the quiz a description. The command you are executing should look something like this: `=create-quiz Name;Description`.
 
 If you are having issues check that the bot has all the [required permissions](/admin/permissions.md).
 
