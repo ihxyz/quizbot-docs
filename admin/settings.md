@@ -10,8 +10,14 @@ There is one limitation to your server's prefix: it cannot be longer than 24 cha
 
 ## Language
 
-Coming soon.
+QuizBot is currently available in two languages: English and German.
+
+To change the language, run `=settings language <en/de>`
 
 ## Command specific permissions
 
-Coming soon.
+You can modify access levels per-command with the `=access-level` command.
+
+To set a command access level, use `=access-level set <command> <role|permission>`
+
+To clear a command access level, use `=access-level reset <command>`
