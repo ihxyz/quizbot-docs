@@ -1,6 +1,6 @@
 # QuizBot Commands
 
-## [Quiz Commands](quizzes.md)
+## [Quiz commands](quizzes.md)
 
 - [`=create-quiz <name>;<description>`](quizzes.md#create-quiz-namedescription)
 - [`=edit <id>`](quizzes.md#edit-id)
@@ -9,14 +9,14 @@
 - [`=view <id>`](quizzes.md#view-id-correct-start-end)
 - [`=spreadsheet`](quizzes.md#spreadsheet)
 
-## [Session Commands](session.md)
+## [Session commands](session.md)
 
 - [`=play`](session.md#play-id-options)
 - [`=stop`](session.md#stop-id)
 - [`=pause`](session.md#pause-id)
 - [`=resume`](session.md#resume-id)
 
-## [Server Management Commands](server.md)
+## [Server management commands](server.md)
 
 - [`=settings`](server.md#settings)
 - [`=access-level`](server.md#access-level)
