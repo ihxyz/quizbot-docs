@@ -28,5 +28,3 @@ For each channel you don't want the bot to execute commands in:
 - Deny the "Read Messages" permission.
 
 Do not remove the "Read Messages" permission from channels where you want to allow command execution.
-
-In future, we plan to implement the ability to restrict any command based on user roles/permissions.
