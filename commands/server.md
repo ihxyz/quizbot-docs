@@ -1,6 +1,6 @@
 # Server Management Commands
 
-**Note:** This page uses command notation. [Learn what this means](../notation.md).
+**Note:** This page uses command notation. [Learn what this means](/commands/notation).
 
 ## `=settings`
 

@@ -1,6 +1,6 @@
 # Using the QuizEditor
 
-**Note:** This page uses command notation. [Learn what this means](notation.md).
+**Note:** This page uses command notation. [Learn what this means](/commands/notation).
 
 **Another note:** The QuizEditor command has multiple aliases. It is referred to as `=qe` here, but `=edit` and `=quiz-editor` also work.
 
@@ -59,13 +59,13 @@ Set the amount of time, in seconds, which the players will have to answer the qu
 
 Edit the minimum points awarded for this question.
 
-[For more information on QuizBot's points system, see this page.](../sessions/points.md)
+[For more information on QuizBot's points system, see this page.](/sessions/points)
 
 ### `=qe max <max points>`
 
 Edit the maximum points awarded for this question.
 
-[For more information on QuizBot's points system, see this page.](../sessions/points.md)
+[For more information on QuizBot's points system, see this page.](/sessions/points)
 
 ### `=qe image <image url>`
 

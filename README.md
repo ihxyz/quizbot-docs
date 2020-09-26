@@ -2,7 +2,7 @@
 
 ## Commands
 
-- [Command notation](quizzes/notation.md)
+- [Command notation](commands/notation.md)
 - [List of all QuizBot commands](commands/commands.md)
 
 ## Quizzes
