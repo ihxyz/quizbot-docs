@@ -1,6 +1,6 @@
 # Quiz Commands
 
-**Note:** This page uses command notation. [Learn what this means](/commands/notation.md).
+**Note:** This page uses command notation. [Learn what this means](/commands/notation).
 
 ## `=create-quiz <name>;<description>`
 
