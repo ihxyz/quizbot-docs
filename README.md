@@ -11,9 +11,12 @@
 - [Using the QuizEditor in Discord](quizzes/quizeditor.md)
 - [Available image hosts](quizzes/imagehosting.md)
 
-## Quiz schedules
+## Quiz sessions
 
-**Note: this is a "beta" feature and may not be entirely stable yet.**
+- [Session options](sessions/options.md)
+- [Points calculations](sessions/points.md)
+
+## Quiz schedules
 
 - [Scheduling quizzes](schedules/schedules.md)
 
