@@ -1,5 +1,7 @@
 # QuizBot Points System
 
+***Please note that the data and information on this page is subject to change and may not be updated immediately.***
+
 QuizBot awards players points for each question they answer correctly with the bot.
 
 ## How points are calculated
