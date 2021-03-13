@@ -16,6 +16,10 @@
 - [Session options](sessions/options.md)
 - [Points calculations](sessions/points.md)
 
+## QuizBot Leaderboards
+
+- [Server leaderboards](levelling/leaderboard.md)
+
 ## XP system, currency and item shop
 
 - [XP and levelling system](levelling/xp.md)
