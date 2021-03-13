@@ -10,6 +10,8 @@ QuizBot calculates your points per correct answer using the following formula.
 
 Answering a question wrong always awards 0 points.
 
+##### Formula
+
 `points_awarded = max_points - ((max_points - min_points) / time_allowed) * time_taken`
 
 Note: if the `simple_scoring` option is enabled, both min_points and max_points will be 1.
