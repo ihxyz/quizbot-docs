@@ -16,6 +16,12 @@
 - [Session options](sessions/options.md)
 - [Points calculations](sessions/points.md)
 
+## XP system, currency and item shop
+
+- [XP and levelling system](levelling/xp.md)
+- [QuizBot currency](shop/currency.md)
+- [QuizBot item shop](shop/shop.md)
+
 ## Quiz schedules
 
 - [Scheduling quizzes](schedules/schedules.md)
