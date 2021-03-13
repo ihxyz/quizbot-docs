@@ -29,7 +29,8 @@ You can also do this via the [web interface](https://quizbot.xyz/explore) for a 
 
 - `<id>`: the quiz ID to view.
 - `(correct)`: (OPTIONAL) if you are the quiz owner, add `correct` after the ID to highlight the correct question answers.
-- `(start-end)`: (OPTIONAL) specify a start and end question to display if the quiz has many questions.
+- `(start-end)`: (OPTIONAL) specify a start and end question to display. Useful if the quiz has many questions.  Example:  
+`=view 123456 1-5` To show questions 1 to 5 (inclusive)
 
 View a quiz.
 
