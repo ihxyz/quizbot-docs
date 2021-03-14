@@ -25,3 +25,7 @@ Once you have created your quiz you will see a QuizEditor which allows you to ch
 ## Method 3: Import a quiz from a CSV spreadsheet
 
 Finally, you can convert a quiz from a spreadsheet to a QuizBot quiz. This is done through the `=spreadsheet` command. For more information, run `=spreadsheet help` or watch our [YouTube tutorial](https://youtu.be/4bcpmbIlrPw).
+
+## Method 4: Copy an existing quiz
+
+If you found a quiz you like and only want to make slight modifications to it, you can copy it using the [copy command](../commands/quizzes.md#copy-id)

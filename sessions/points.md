@@ -1,5 +1,7 @@
 # QuizBot Points System
 
+***Please note that the data and information on this page is subject to change and may not be updated immediately.***
+
 QuizBot awards players points for each question they answer correctly with the bot.
 
 ## How points are calculated
@@ -7,6 +9,8 @@ QuizBot awards players points for each question they answer correctly with the b
 QuizBot calculates your points per correct answer using the following formula.
 
 Answering a question wrong always awards 0 points.
+
+##### Formula
 
 `points_awarded = max_points - ((max_points - min_points) / time_allowed) * time_taken`
 

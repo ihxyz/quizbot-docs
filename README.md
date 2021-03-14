@@ -11,9 +11,22 @@
 - [Using the QuizEditor in Discord](quizzes/quizeditor.md)
 - [Available image hosts](quizzes/imagehosting.md)
 
-## Quiz schedules
+## Quiz sessions
 
-**Note: this is a "beta" feature and may not be entirely stable yet.**
+- [Session options](sessions/options.md)
+- [Points calculations](sessions/points.md)
+
+## QuizBot Leaderboards
+
+- [Server leaderboards](levelling/leaderboard.md)
+
+## XP system, currency and item shop
+
+- [XP and levelling system](levelling/xp.md)
+- [QuizBot currency](shop/currency.md)
+- [QuizBot item shop](shop/shop.md)
+
+## Quiz schedules
 
 - [Scheduling quizzes](schedules/schedules.md)
 
