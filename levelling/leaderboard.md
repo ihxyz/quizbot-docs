@@ -1,5 +1,7 @@
 # QuizBot server leaderbords
 
+Note: All leaderboards will only show any points scored after the 13th March 2021.
+
 QuizBot server leaderboards allow you to keep track of who is the best or most active quiz player in your server.
 
 Leaderboards are most useful for server events which incorporate multiple quizzes or multiple plays of the same quiz.

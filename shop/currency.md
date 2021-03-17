@@ -31,7 +31,6 @@ Note: These rewards do **NOT** add up, i.e. Although a top 5% player is also in 
 The amount of Q$ rewarded is also reduced if any of the below factors apply to you:
 
 - You own the quiz being played (x0.2 multiplier)
-- You started the quiz session (x0.2 multiplier)
 
 These reductions stack with each other.
 

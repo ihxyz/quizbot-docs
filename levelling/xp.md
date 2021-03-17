@@ -21,7 +21,6 @@ There is a daily cap on the amount of XP you can gain. While we don't reveal the
 The amount of XP rewarded is also reduced if any of the below factors apply to you:
 
 - You own the quiz being played (x0.2 multiplier)
-- You started the quiz session (x0.2 multiplier)
 - You are above the daily cap (x0.1 multipler)
 
 These reductions stack with each other.
