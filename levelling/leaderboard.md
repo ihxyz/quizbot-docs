@@ -6,9 +6,9 @@ QuizBot server leaderboards allow you to keep track of who is the best or most a
 
 Leaderboards are most useful for server events which incorporate multiple quizzes or multiple plays of the same quiz.
 
-## leaderboard types
+## Leaderboard types
 
-Every leaderbaord will show all users which have taken part in quizzes in the given timeframe, up to the maximum possible amount of 50 users.
+Every leaderbaord will show all users which have taken part in quizzes in the given timeframe, up to the maximum possible amount of 30 users.
 
 #### Simple leaderboards
 
@@ -16,7 +16,7 @@ A leaderbaord which shows the total scores of users at the time the command is r
 
 `=lb simple`
 
-#### Weekly, monthly & all time leaderbaords
+#### Automatic weekly, monthly & all time leaderbaords
 
 ###### Note: This is a QuizBot [Premium feature.](https://quizbot.xyz/premium?src=qb-docs)
 
@@ -24,13 +24,19 @@ Will only show the scores in the given timeframe, automatically update after eve
 
 Only server administrators with QuizBot Premium can create these:
 
-`lb new weekly/monthly/all-time`
+`=lb new weekly/monthly/all-time`
 
-#### Custom leaderboards
+#### Automatic custom leaderboards
 
 ###### Note: This is a QuizBot [Premium feature.](https://quizbot.xyz/premium?src=qb-docs)
 
-A leaderboard which can be set to start and optionally end at any given date. Automatically updates after every quiz. .leaderboard new custom .... You must provide a start and optionally an end time, see [Leaderboard advanced settings](#advanced-settings).
+A leaderboard which can be set to start and optionally end at any given date. Automatically updates after every quiz session. 
+
+`=leaderboard new custom <start>;(end)`
+
+You must provide a start time for this leaderboard type. You can also provide an end time, see [Leaderboard advanced settings for more information](#advanced-settings).
+
+A single server can have a maximum of 5 automatic leaderboards, and a user with an active premium subscription can create automatic leaderboards in 2 different servers. If you want to create a new automatic leaderboard but already have 5 on your server, you can delete an old one with `=lb delete <id>` (The leaderboard ID can be found at the bottom of the leaderboard message).
 
 ## Advanced settings
 
